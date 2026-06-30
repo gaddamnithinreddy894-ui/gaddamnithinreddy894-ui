@@ -1,8 +1,8 @@
 <div align="center">
 
-# 💻 GADDAM NITHIN KUMAR
+#  GADDAM NITHIN KUMAR
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Computer+Science+Engineering+Student;Python+Developer;React+%7C+FastAPI+Developer;Problem+Solver;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Computer+Science+Engineering+Student;Problem+Solver;Future+Software+Engineer" />
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
